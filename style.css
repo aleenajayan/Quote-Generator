@@ -20,7 +20,9 @@
 }
 
 .box {
+
     background: #0b132b;
+    background: #156064;
     width: 90%;
     /* Adjust the width to your liking */
     max-width: 700px;
